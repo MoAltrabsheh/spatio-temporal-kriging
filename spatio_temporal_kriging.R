@@ -2,10 +2,6 @@
 # Coursework: Spatio-Temporal Kriging
 # Author: Mo Altrabsheh
 # Email:  ma2968@bath.ac.uk
-# ============================================================
-
-# Create output directory for figures
-if (!dir.exists("figures")) dir.create("figures")
 
 # ============================================================
 # TASK 1: Loading and Inspecting the Data
